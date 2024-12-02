@@ -86,7 +86,8 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=ALXS-GitHub&show_icons=true&theme=highcontrast" alt="ALXS's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALXS-GitHub&layout=compact&theme=highcontrast" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALXS-GitHub&layout=compact&theme=highcontrast&exclude_repo=Programmer-La-Matiere
+" alt="Top Langs" />
 </div>
 
 
