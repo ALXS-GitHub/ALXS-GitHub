@@ -9,7 +9,7 @@
 
 ## ⚙️ Languages and Tools
 
-<a href="https://www.python.org/" style="text-decoration: none !important;">
+<!-- <a href="https://www.python.org/" style="text-decoration: none !important;">
     <img class="tech-icon" alt="Python" 
     style="width: 60px; padding: 12px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
@@ -80,7 +80,8 @@
 <a href="https://www.java.com/" style="text-decoration: none !important;">
     <img class="tech-icon" alt="Java"
     style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</a>
+</a> -->
+[<img class="tech-icon" alt="Python" style="width: 60px; padding: 12px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />][https://www.python.org/]
 
 ## 📈 GitHub Stats
 
