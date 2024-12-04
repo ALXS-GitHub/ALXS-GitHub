@@ -9,8 +9,8 @@
 
 ## ⚙️ Languages and Tools
 
-<a style="padding-right: 12px;" href="https://www.python.org/"><img class="tech-icon" alt="Python" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-<a href="https://www.rust-lang.org/"><img class="tech-icon" alt="Rust" style="background-color: white; width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" /></a>
+<a href="https://www.python.org/"><img class="tech-icon" alt="Python" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+<a href="https://www.rust-lang.org/"><img class="tech-icon" alt="Rust" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" /></a>
 <a href="https://www.cprogramming.com/"><img class="tech-icon" alt="C" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
 <a href="https://www.cplusplus.com/"><img class="tech-icon" alt="C++" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>
 <a href="https://www.javascript.com/"><img class="tech-icon" alt="JavaScript" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
@@ -20,7 +20,7 @@
 <a href="https://reactjs.org/"><img class="tech-icon" alt="React" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 <a href="https://tauri.studio/"><img class="tech-icon" alt="Tauri" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" /></a>
 <a href="https://git-scm.com/"><img class="tech-icon" alt="Git" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-<a href="https://github.com/"><img class="tech-icon" alt="GitHub" style="background-color: white; width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+<a href="https://github.com/"><img class="tech-icon" alt="GitHub" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
 <a href="https://www.docker.com/"><img class="tech-icon" alt="Docker" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></a>
 <a href="https://www.linux.org/"><img class="tech-icon" alt="Linux" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
 <a href="https://code.visualstudio.com/"><img class="tech-icon" alt="VSCode" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
@@ -30,9 +30,12 @@
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=ALXS-GitHub&show_icons=true&theme=highcontrast" alt="ALXS's GitHub stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALXS-GitHub&layout=compact&theme=highcontrast&exclude_repo=Programmer-La-Matiere" alt="Top Langs" />
+</div>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALXS-GitHub&theme=highcontrast" alt="ALXS's GitHub Streak" />
 </div>
 
 
