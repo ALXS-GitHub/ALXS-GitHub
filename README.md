@@ -9,7 +9,7 @@
 
 ## ⚙️ Languages and Tools
 
-<a href="https://www.python.org/"><img class="tech-icon" alt="Python" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+<a style="padding-right: 12px;" href="https://www.python.org/"><img class="tech-icon" alt="Python" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
 <a href="https://www.rust-lang.org/"><img class="tech-icon" alt="Rust" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" /></a>
 <a href="https://www.cprogramming.com/"><img class="tech-icon" alt="C" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
 <a href="https://www.cplusplus.com/"><img class="tech-icon" alt="C++" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>
