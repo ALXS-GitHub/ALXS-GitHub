@@ -32,7 +32,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=ALXS-GitHub&show_icons=true&theme=highcontrast" alt="ALXS's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALXS-GitHub&layout=compact&theme=highcontrast&exclude_repo=Programmer-La-Matiere" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALXS-GitHub&layout=compact&theme=highcontrast&exclude_repo=Programmer-La-Matiere,Particles-Simulator" alt="Top Langs" />
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALXS-GitHub&theme=highcontrast" alt="ALXS's GitHub Streak" />
