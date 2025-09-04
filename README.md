@@ -17,6 +17,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img class="tech-icon" alt="HTML5" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img class="tech-icon" alt="CSS3" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
 <a href="https://nodejs.org/en/"><img class="tech-icon" alt="Node.js" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></a>
+<a href="https://deno.com/"><img class="tech-icon" alt="Deno" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" /></a>
 <a href="https://reactjs.org/"><img class="tech-icon" alt="React" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 <a href="https://tauri.studio/"><img class="tech-icon" alt="Tauri" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" /></a>
 <a href="https://git-scm.com/"><img class="tech-icon" alt="Git" style="width: 60px; padding: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
